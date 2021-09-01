@@ -40,6 +40,7 @@ You can ping me on my
 [Twitter](https://www.twitter.com/Prateek__py/) 
 [Instagram](https://www.instagram.com/prateek.py/) 
 [Linkedin](https://www.linkedin.com/in/prateek-rai-a58848153/)
+Buy me a coffee by tipping Brave Rewards
 
 See you , Peace :v:
 
