@@ -1,51 +1,37 @@
 <div align="center">
-<img  src="https://thumbs.gfycat.com/DamagedImportantAmurratsnake-size_restricted.gif" style="width: 100%" />
+<img  src="https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" style="width: 80%" />
 </div>  
-
-  
 
 # <div align="center">👋 I'm PrateeK</div>  
 
-  
-
-- 💻 Currently on a quest to learn Competitive Programming.
-
-
-- 🌱 I’m Open to Learning new Things. 
-  
-
-- ❓ Ask me about anything related to Python and Web technologies. 
-
-
-- ⚡ Fun fact: I have multi passion disorder. 
-
-
-<p>&nbsp;</p>
+- 💻 Currently pursuing a cybersecurity education.
+- 🌱 I'm Willing to Discover New Things.  
+- 🚀 My ambition is to use my skills to develop efficient and scalable solutions to real-world challenges.
+- 💞️ I’m looking to collaborate on web 3.
+- ⚡ Fun fact:I'm a multipassionate person. 
 <p>&nbsp;</p>
 
-<img src = 'https://img.shields.io/badge/-Python-orange'> <img src = 'https://img.shields.io/badge/-C++-white'> <img src = 'https://img.shields.io/badge/-MERN-green'>
-<img src = 'https://img.shields.io/badge/-Webtech-yellow'>
+<img src = 'https://img.shields.io/badge/-Python-black?logo=python&logoColor=white'> <img src = 'https://img.shields.io/badge/-JavaScript-black?logo=javascript&logoColor=white'> <img src = 'https://img.shields.io/badge/-React-black?logo=react&logoColor=white'> <img src = 'https://img.shields.io/badge/-Node%20JS-black?logo=nodedotjs&logoColor=white'> <img src = 'https://img.shields.io/badge/-Web%203.0-black?logo=bitcoin&logoColor=white'> <img src = 'https://img.shields.io/badge/-C++-black?logo=c&logoColor=white'>
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
-### ⚡ One line that describes me best? 
-I Want to make things that makes a difference 👩‍💻
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+### ⚡ What is the finest statement that sums me up?
+-  I want to build things that makes a difference. 👩‍💻
 
 ### 📫 How to reach me?
-You can ping me on my 
-[Twitter](https://www.twitter.com/Prateek__py/) 
-[Instagram](https://www.instagram.com/prateek.py/) 
-[Linkedin](https://www.linkedin.com/in/prateek-rai-a58848153/)
+Feel free to reach out to me if you have any questions or if you’re interested in collaborating.
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/prateek.py/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/prateek-rai-a58848153/)
+<a href="mailto:prateekrai7677@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
+</a>
 
 
+##### Together, let's create something incredible and flourish!
 
-Buy me a coffee by tipping Brave Rewards
 
-See you , Peace :v:
+Peace and see you later. :v:
 
 
 
